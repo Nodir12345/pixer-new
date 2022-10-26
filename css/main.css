@@ -231,7 +231,7 @@ padding: 30px 40px;
 
 .how-content-title::after{
   content: "";
-  background-image: url("/img/how_logo.svg");
+  background-image: url("../img/how_logo.svg");
   background-repeat: no-repeat;
   width: 64px;
   height: 64px;
@@ -241,7 +241,7 @@ padding: 30px 40px;
 
 .how-content-title2::after{
   content: "";
-  background-image: url("/img/how_loggo2.svg");
+  background-image: url("../img/how_loggo2.svg");
   background-repeat: no-repeat;
   width: 64px;
   height: 64px;
@@ -251,7 +251,7 @@ padding: 30px 40px;
 
 .how-content-title3::after{
   content: "";
-  background-image: url("/img/how_loggo3.svg");
+  background-image: url("../img/how_loggo3.svg");
   background-repeat: no-repeat;
   width: 64px;
   height: 64px;
@@ -261,7 +261,7 @@ padding: 30px 40px;
 
 .how-content-title4::after{
   content: "";
-  background-image: url("/img/how_loggo4.svg");
+  background-image: url("../img/how_loggo4.svg");
   background-repeat: no-repeat;
   width: 64px;
   height: 64px;
@@ -273,7 +273,7 @@ padding: 30px 40px;
 
 .how-content-title5::after{
   content: "";
-  background-image: url("/img/how_loggo5.svg");
+  background-image: url("../img/how_loggo5.svg");
   background-repeat: no-repeat;
   width: 64px;
   height: 64px;
