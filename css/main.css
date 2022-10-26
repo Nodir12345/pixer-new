@@ -313,3 +313,143 @@ margin-bottom: 40px;
 .how-content-item:hover .how_content_link{
   color: #FFFFFF;
 }
+
+.work-box{
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.work_title{
+  font-weight: 600;
+font-size: 36px;
+line-height: 140%;
+text-align: center;
+margin: 0 auto;
+color: #101010;
+}
+.work_text{
+  font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+text-align: center;
+margin: 0 auto;
+color: #636F87;
+}
+.work__content{
+  width: 640px;
+  margin: 0 auto;
+  margin-bottom: 90px;
+}
+.work_inner_content{
+  display: flex;
+  margin-bottom: 100px;
+
+}
+.work__inner__img{
+  width: 488px;
+  height: 390px;
+}
+.work-inner__block{
+  width: 488px;
+  margin-left: 32px;
+  padding-top: 26px;
+}
+.work__inner__title{
+  font-weight: 700;
+font-size: 40px;
+line-height: 140%;
+color: #101010;
+margin-bottom: 20px;
+}
+.work_inner_text{
+  font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #636F87;
+
+}
+
+.work_inner_content:nth-child(2) {
+justify-content: end;
+margin-bottom: 94px;
+}
+
+.number_content_title{
+  width: 411px;
+  margin: 0 auto;
+}
+.number_content_text{
+  width: 650px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+.number__title{
+  font-weight: 700;
+font-size: 36px;
+line-height: 140%;
+text-align: center;
+color: #101010;
+
+}
+.number__text{
+  font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+text-align: center;
+color: #636F87;
+}
+
+.form_box{
+  width: 1008px;
+background: #F2F4F6;
+border-radius: 6px;
+margin: 0 auto;
+padding: 64px 312px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+.input1,select{
+  border: none;
+  background: #F2F4F6;
+border-radius: 6px;
+margin-bottom: 51px;
+padding-bottom: 21px;
+padding-top: 21px;
+border-bottom: 1px solid #C9CACC;
+
+
+}
+.input1::placeholder{
+  font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+color: #101010;
+
+}
+#xizmat{font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  
+  color: #101010;
+  
+}
+select{
+  width: 384px;
+}
+.form-link{
+  width: 180px;
+  margin: 0 auto;
+}
+
+.form_text{
+  font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+margin: 0 auto;
+margin-top: 24px;
+color: #858EA2;
+}
+
